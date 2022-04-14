@@ -1,0 +1,5 @@
+
+.idea/*
+key.json
+*.pyc
+~$analysis.xlsx
